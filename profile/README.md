@@ -14,4 +14,4 @@ Check out our website at [argsrobotics.com](http://argsrobotics.com)
 - Assa Sacko - AssaSko
 - Agastyya Kala - EngineerKid
 - Ethan Thompson - TheToon5
-- Anisha Steadman - momo-beat
+- Anisha Steadman - momo-beep
