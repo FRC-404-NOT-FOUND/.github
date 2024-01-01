@@ -14,3 +14,7 @@ Check out our website at [argsrobotics.com](http://argsrobotics.com)
 - Agastyya Kala - EngineerKid
 - Ethan Thompson - TheToon5
 - Anisha Steadman - momo-beep
+- Adam Shafer - AdamARGS
+- Ananyah Amaram - nias-antics
+- Michelle Alphonsus - DocterInfamous
+- Alexis Washington
