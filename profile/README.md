@@ -8,13 +8,8 @@ Check out our website at [argsrobotics.com](http://argsrobotics.com)
 ## Programming team members:
 - Zachary Collazo (Captain) - ztcollazo
 - Henry Powell - HenryCodes12
-- Liam Gordon - NeverZelos
-- Ola Amr - olaSamr
-- Assa Sacko - AssaSko
 - Agastyya Kala - EngineerKid
 - Ethan Thompson - TheToon5
-- Anisha Steadman - momo-beep
 - Adam Shafer - AdamARGS
-- Ananyah Amaram - nias-antics
 - Michelle Alphonsus - DocterInfamous
-- Alexis Washington
+- Natalie Stopf - errornatfound
