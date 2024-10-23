@@ -6,8 +6,8 @@ the robotics team for Appomattox Regional Governor's School for the Arts and Tec
 Check out our website at [argsrobotics.com](http://argsrobotics.com)
 
 ## Programming team members:
-- Zachary Collazo (Captain) - ztcollazo
-- Henry Powell - HenryCodes12
+- Henry Powell (Captain) - HenryCodes12
+- Spencer McCurry (Lt. Captain) - sjmccurry
 - Agastyya Kala - EngineerKid
 - Ethan Thompson - TheToon5
 - Adam Shafer - AdamARGS
