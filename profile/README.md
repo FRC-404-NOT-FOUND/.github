@@ -6,10 +6,11 @@ the robotics team for Appomattox Regional Governor's School for the Arts and Tec
 Check out our website at [argsrobotics.com](http://argsrobotics.com)
 
 ## Programming team members:
-- Henry Powell (Captain) - HenryCodes12
-- Spencer McCurry (Lt. Captain) - sjmccurry
-- Agastyya Kala - EngineerKid
-- Ethan Thompson - TheToon5
-- Adam Shafer - AdamARGS
+- Spencer McCurry (Captain) - sjmccurry
+- Adam Shafer (Lt. Captain) - AdamARGS
+- Jatniel Gonzalez
 - Michelle Alphonsus - DocterInfamous
-- Natalie Stopf - errornatfound
+- Christopher Temple
+- Fern Powell
+- Michael Freels
+- Ian Klein
