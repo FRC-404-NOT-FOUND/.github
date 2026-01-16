@@ -8,9 +8,6 @@ Check out our website at [argsrobotics.com](http://argsrobotics.com) (currently 
 ## Programming team members:
 - Spencer McCurry (Captain) - sjmccurry
 - Adam Shafer (Lt. Captain) - AdamARGS
-- Jatniel Gonzalez
-- Michelle Alphonsus - DocterInfamous
-- Christopher Temple
+- Ian Klein - ured116
 - Fern Powell
 - Michael Freels
-- Ian Klein - ured116
