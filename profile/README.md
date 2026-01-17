@@ -9,5 +9,5 @@ Check out our website at [argsrobotics.com](http://argsrobotics.com) (currently 
 - Spencer McCurry (Captain) - sjmccurry
 - Adam Shafer (Lt. Captain) - AdamARGS
 - Ian Klein - ured116
-- Fern Powell
-- Michael Freels
+- Michael Freels - PianoZombie
+- Fern Powell - fern-powell
